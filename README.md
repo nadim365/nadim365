@@ -1,7 +1,7 @@
 ### Hi there 👋
+WWELCOME TO MY REPO !!!
 
-
-Here are some ideas to get you started:
+Here's a very brief introduction about me 
 
 - 🔭 I’m currently working on web development
 - 🌱 I’m currently learning Computer Science
