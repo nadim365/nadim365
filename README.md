@@ -1,10 +1,10 @@
 ### Hi there 👋
-WWELCOME TO MY REPO !!!
+WELCOME TO MY REPO !!!
 
 Here's a very brief introduction about me 
 
 - 🔭 I’m currently working on web development
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m currently Majoring in Computer Science
 - 👯 I’m looking to collaborate on any interesting project I can participate in 
 - 🤔 I’m looking for help with docker, react and other tools i could use for development
 - 💬 Ask me about anything !
